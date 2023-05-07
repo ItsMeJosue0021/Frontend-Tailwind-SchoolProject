@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Lora:wght@400;500;600;700&display=swap');
+
+.didact {
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+.lora {
+    font-family: 'Lora', serif;
+}
+
+
